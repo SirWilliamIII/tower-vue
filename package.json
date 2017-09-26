@@ -1,8 +1,7 @@
 {
-  "name": "github-application",
+  "name": "vue-github-application",
   "version": "1.0.0",
-  "description": "A application for GitHub",
-  "author": "Peter van Meijgaard <petervanmeijgaard@hotmail.com>",
+  "author": "William Carpenter <dev.wtc3@gmail.com>",
   "private": true,
   "scripts": {
     "dev": "node build/dev-server.js",
